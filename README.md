@@ -23,7 +23,5 @@
 
 # ✏ Test Case
   - Google Sheets  
-    https://docs.google.com/spreadsheets/d/1WPIoh1C1RvmCUc2l651q369Dh9EwkBabVmlzcE_wcp0/edit?usp=sharing
-
-# 📷 Video
+    https://docs.google.com/spreadsheets/d/1WPIoh1C1RvmCUc2l651q369Dh9EwkBabVmlzcE_wcp0/edit?usp=sharin
 
