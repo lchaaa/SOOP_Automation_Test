@@ -13,18 +13,13 @@
 - 사전에 설계된 자동화 테스트 케이스를 기반으로 스크립트를 구현하여 검증 프로세스의 효율성 및 일관성 향상
 
 # 🛠 Next
-
 - TC-008 라이브 탭 필터 기능 자동화 테스트
 - TC-009 라이브 방송 시청 기능 자동화 테스트
 - SOOP 모바일 서비스 MY Tab 기능 자동화 테스트 구현
 
 # ✏ Test Case
-
-- Test Case 문서  
-  - [SOOP Automation Test TC.xlsx](SOOP_Automation_Test_TC.xlsx)
   - Google Sheets  
     https://docs.google.com/spreadsheets/d/1WPIoh1C1RvmCUc2l651q369Dh9EwkBabVmlzcE_wcp0/edit?usp=sharing
 
 # 📷 Video
 
-- 자동화 테스트 실행 영상 추후 업데이트 예정
